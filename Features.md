@@ -8,8 +8,6 @@
 # Built-in Functions
 - use_bpm
 - use_octave
-# Syntax
-- :
 # Effects 
 - with_fx, :pan, reverb, :panslicer
 ## Effect Options
