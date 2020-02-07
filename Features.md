@@ -42,7 +42,7 @@
 
 # Features in Tracks
 
-|                                            | Ditty                               | Easy                                   | Medium        | Hard |
+|                                            | Ditty                               | Track 1                                   | Track 2        | Track 3 |
 | ---                                        | -----                               | ----                                   | ------        | ---- |
 | Built-in Functions                         | sleep                               | "use\_bpm, live\_loop,                 |               |      |
 | with\_fx, use\_synth"                      | "chords, sync, cue,                 |                                        |               |      |
