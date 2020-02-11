@@ -43,15 +43,15 @@
 
 |                                            | Ditty                               | Track 1                                   | Track 2        | Track 3 |
 | ---                                        | -----                               | ----                                   | ------        | ---- |
-| Built-in Functions                         | sleep                               | "use\_bpm, live\_loop,                 |               |      |
-| with\_fx, use\_synth"                      | "chords, sync, cue,                 |                                        |               |      |
+| Built-in Functions                         | sleep                               | use\_bpm, live\_loop,                 |               |      |
+| with\_fx, use\_synth"                      | chords, sync, cue,                 |                                        |               |      |
 | use\_octave, define"                       | range, ring (step, inclusive, tick) |                                        |               |      |
 | Effect Options                             |                                     | room, mix, amp, pan                    |               |      |
 | Effects                                    |                                     | reverb, pan                            |               |      |
 | Getter/setter                              |                                     |                                        | get, set      |      |
 | Iteration                                  |                                     | .times                                 | live\_loop    |      |
 | Playback                                   | play                                |                                        |               |      |
-| Playback Options                           |                                     | "attack, release, sustain, amp,        |               |      |
+| Playback Options                           |                                     | attack, release, sustain, amp,        |               |      |
 | cutoff"                                    |                                     |                                        |               |      |
 | Randomization                              |                                     |                                        | .choose, rand |      |
 | Rings                                      |                                     |                                        |               | ring |
