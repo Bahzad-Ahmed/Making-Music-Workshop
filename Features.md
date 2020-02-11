@@ -2,39 +2,40 @@
 - set, get
 # Iteration
 - live_loop
-- 18.times
+- .times method
 # Scope
 - do, end
 # Built-in Functions
 - use_bpm
 - use_octave
 # Effects 
-- with_fx, :pan, reverb, :panslicer
+- with_fx, :pan, :reverb, :panslicer etc
 ## Effect Options
-- room:1
-- mix:0.3
-- phase:0.125
+- room options
+- mix options
+- phase options
 # Samples
-- sample
-- :drum_heavy_kick, :drum_snare_hard, :drum_cymbal_closed, :drum_cymbal_pedal
+- sample options
+- :drum_heavy_kick, :drum_snare_hard, :drum_cymbal_closed, :drum_cymbal_pedal, etc
 ## Sample Options
-- amp:5, 
+- amplitude options
 # Synth
 - use_synth :fm
-- use_synth :pnoise
-- :piano
+- use_synth :pnoise etc
 # Playback and Options
 - sleep
-- play :c2
+- play
 - attack
 - release
 - sustain
 # Chords
 - chord(:c2 :major7)
-- chord(:a2 :minor)
 - chord(:c3, :major7, num_octaves: 2)
 # Randomization
 - choose(chord(:c3, :major7, num_octaves: 2))
+- one_in()
+- dice
+- rand(), rrand(), rrand_i()
 
 --------
 
